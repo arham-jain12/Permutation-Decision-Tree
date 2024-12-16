@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,0.8571428571428571
+F1 Score,0.851764705882353
+Precision,0.8472222222222222
+Recall,0.8605769230769231
+best_N_estimator_,150.0
+Corresponding_depth,8.0

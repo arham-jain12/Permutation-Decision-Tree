@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,1.0
+F1 Score,1.0
+Precision,1.0
+Recall,1.0
+best_N_estimator_,150.0
+Corresponding_depth,3.0

@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy_PDT,0.8571428571428571
+F1 Score_PDT,0.8444444444444446
+Precision_PDT,0.8444444444444444
+Recall_PDT,0.8444444444444444
+best_Shuffleseed_used_for_pdt,20.0
+Corresponding Depth,5.0

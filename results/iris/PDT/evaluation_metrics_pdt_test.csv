@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy_PDT,1.0
+F1 Score_PDT,1.0
+Precision_PDT,1.0
+Recall_PDT,1.0
+best_Shuffleseed_used_for_pdt,20.0
+Corresponding Depth,2.0
